@@ -1,0 +1,14 @@
+@import 'vendors/bootstrap-4.6.0/bootstrap.scss';
+
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+@import 'base/base';
+@import 'base/reset';
+@import 'base/typography';
+
+@import 'layout/navbar';
+@import 'layout/banner';
+@import 'layout/main-section';
+
+@import 'components/buttons';
