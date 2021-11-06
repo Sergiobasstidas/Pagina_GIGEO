@@ -9928,7 +9928,7 @@ h3 {
     border-color: #dee2e6;
   }
 }
-body {
+body * {
   font-family: "Poppins", sans-serif;
 }
 
@@ -9939,7 +9939,7 @@ html, body {
 
 h1 {
   font-size: 50px;
-  padding-top: 10p;
+  padding-top: 10px;
 }
 
 h5 {
@@ -10019,8 +10019,8 @@ p {
   }
 
   .profile__thumbnail--yuki {
-    max-width: 50px;
-    height: 50px;
+    max-width: 70px;
+    height: 70px;
   }
 }
 .banner__section {
@@ -10028,7 +10028,11 @@ p {
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
-  height: 130px;
+  height: 185px;
+}
+
+.title_section {
+  font-family: "Poppins", sans-serif;
 }
 
 .card__body--titulo {
